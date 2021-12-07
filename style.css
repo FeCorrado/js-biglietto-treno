@@ -1,0 +1,9 @@
+
+#output{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: greenyellow;
+    border-radius: 15px;
+    width: 250px;
+}
